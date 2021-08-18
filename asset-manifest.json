@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AdminTLE-clone/static/css/main.753fb056.chunk.css",
+    "main.js": "/AdminTLE-clone/static/js/main.049a88cc.chunk.js",
+    "main.js.map": "/AdminTLE-clone/static/js/main.049a88cc.chunk.js.map",
+    "runtime-main.js": "/AdminTLE-clone/static/js/runtime-main.7cb702b1.js",
+    "runtime-main.js.map": "/AdminTLE-clone/static/js/runtime-main.7cb702b1.js.map",
+    "static/css/2.97a13557.chunk.css": "/AdminTLE-clone/static/css/2.97a13557.chunk.css",
+    "static/js/2.fda5b935.chunk.js": "/AdminTLE-clone/static/js/2.fda5b935.chunk.js",
+    "static/js/2.fda5b935.chunk.js.map": "/AdminTLE-clone/static/js/2.fda5b935.chunk.js.map",
+    "static/js/3.b6603d3d.chunk.js": "/AdminTLE-clone/static/js/3.b6603d3d.chunk.js",
+    "static/js/3.b6603d3d.chunk.js.map": "/AdminTLE-clone/static/js/3.b6603d3d.chunk.js.map",
+    "index.html": "/AdminTLE-clone/index.html",
+    "static/css/2.97a13557.chunk.css.map": "/AdminTLE-clone/static/css/2.97a13557.chunk.css.map",
+    "static/css/main.753fb056.chunk.css.map": "/AdminTLE-clone/static/css/main.753fb056.chunk.css.map",
+    "static/js/2.fda5b935.chunk.js.LICENSE.txt": "/AdminTLE-clone/static/js/2.fda5b935.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cb702b1.js",
+    "static/css/2.97a13557.chunk.css",
+    "static/js/2.fda5b935.chunk.js",
+    "static/css/main.753fb056.chunk.css",
+    "static/js/main.049a88cc.chunk.js"
+  ]
+}
