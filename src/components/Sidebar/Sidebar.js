@@ -1,6 +1,5 @@
 import SidebarItem from "./SidebarItem"
 import SidebarLabel from "./SidebarLabel"
-
 import {
   FaAngleLeft,
   FaTachometerAlt,
@@ -56,13 +55,21 @@ const SideBar = () => {
             <SidebarItem
               leftIcon={<FaFile />}
               text="Layout Options"
-              rightIcon={<FaAngleLeft />}
+              rightIcon={
+                <div>
+                  <span className="box box-primary">4</span>
+                </div>
+              }
             ></SidebarItem>
 
             <SidebarItem
               leftIcon={<FaTh />}
               text="Widgets"
-              rightIcon={<FaAngleLeft />}
+              rightIcon={
+                <div>
+                  <span className="box box-success">new</span>
+                </div>
+              }
             ></SidebarItem>
 
             <SidebarItem
@@ -92,13 +99,24 @@ const SideBar = () => {
             <SidebarItem
               leftIcon={<FaCalendar />}
               text="Calendar"
-              rightIcon={<FaAngleLeft />}
+              rightIcon={
+                <div>
+                  <span className="box box-primary">17</span>
+                  <span className="box box-danger">3</span>
+                </div>
+              }
             ></SidebarItem>
 
             <SidebarItem
               leftIcon={<FaEnvelope />}
               text="Mailbox"
-              rightIcon={<FaAngleLeft />}
+              rightIcon={
+                <div>
+                  <span className="box box-danger">5</span>
+                  <span className="box box-success">6</span>
+                  <span className="box box-warning">12</span>
+                </div>
+              }
             ></SidebarItem>
 
             <SidebarItem
@@ -116,7 +134,6 @@ const SideBar = () => {
             <SidebarItem
               leftIcon={<FaBook />}
               text="Documentation"
-              rightIcon={<FaAngleLeft />}
             ></SidebarItem>
           </ul>
         </div>

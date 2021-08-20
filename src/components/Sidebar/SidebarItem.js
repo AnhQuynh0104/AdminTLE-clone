@@ -6,7 +6,9 @@ const SidebarItem = (props) => {
           <span className="item-left-icon">{props.leftIcon}</span>
           <span className="content">{props.text}</span>
         </div>
-        <div className="item-right-icon">{props.rightIcon}</div>
+        <div className="item-right-icon">
+          {props.rightIcon || props.boxNotify}
+        </div>
       </li>
     </>
   )
